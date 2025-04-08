@@ -6,3 +6,5 @@ In this section we will learn how to use LLMs to support hypothesis generation, 
 
 .. toctree::
    :maxdepth: 1
+
+   llms_bio
